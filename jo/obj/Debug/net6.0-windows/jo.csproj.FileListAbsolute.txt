@@ -1,0 +1,17 @@
+C:\Users\Zahid Hasan\source\repos\jo\jo\bin\Debug\net6.0-windows\jo.exe
+C:\Users\Zahid Hasan\source\repos\jo\jo\bin\Debug\net6.0-windows\jo.deps.json
+C:\Users\Zahid Hasan\source\repos\jo\jo\bin\Debug\net6.0-windows\jo.runtimeconfig.json
+C:\Users\Zahid Hasan\source\repos\jo\jo\bin\Debug\net6.0-windows\jo.dll
+C:\Users\Zahid Hasan\source\repos\jo\jo\bin\Debug\net6.0-windows\jo.pdb
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.csproj.AssemblyReference.cache
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.Form1.resources
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.csproj.GenerateResource.cache
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.AssemblyInfoInputs.cache
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.AssemblyInfo.cs
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.csproj.CoreCompileInputs.cache
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.dll
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\refint\jo.dll
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.pdb
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\jo.genruntimeconfig.cache
+C:\Users\Zahid Hasan\source\repos\jo\jo\obj\Debug\net6.0-windows\ref\jo.dll
